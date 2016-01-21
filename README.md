@@ -1,3 +1,5 @@
+Based on unofficial users app: https://github.com/amirrajan/nodejs-chat.git
+
 Install all the dependencies:
 
     npm install
